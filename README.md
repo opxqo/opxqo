@@ -1,27 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on Backend Dev<br>👯 I’m looking to collaborate on Dev Side<br>🌱 I’m currently learning Rust, Go, AI/ML<br>💬 Ask me about Frontend, React and Android <br>⚡ Fun fact Passionate🔱, Adventure🌐,  Digital art🚀, Innovative🌟
+<div align="center">
 
+  <img src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true" width="100%" style="border-radius: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-mali-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BoltHacker1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sanjay-Mali) 
+  <br/>
+  <br/>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjay-mali&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-mali&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-mali&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  # 👋 Ahoy! 我是 OPXQO
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <h3>"这里是蟹堡王吗？🦀 <br>不，这里是 <span style="color: #FF69B4;">OPXQO</span> 的代码小窝！⭐"</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjay-mali&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+  <p>
+    <b>Backend Dev 🛠️ | Digital Art 🎨 | Explorer 🚀</b>
+  </p>
 
+  <a href="https://github.com/opxqo">
+    <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors">
+  </a>
 
-[![](https://visitcount.itsvg.in/api?id=sanjay-mali&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/sanjaymali99) 
+---
 
-  
+### 🫧 关于我也许你想知道的事 (About Me)
+
+> *"我准备好了！我准备好了！" —— 海绵宝宝*
+
+这里的代码充满热情！作为一个充满好奇心的开发者，我目前专注于后端开发，但也喜欢在前端和移动端的世界里探险。
+
+- 🔭 **目前正在折腾**：后端开发 (Backend Dev)，构建坚如磐石的服务。
+- 🌱 **正在努力吸收新知识**：`Rust` 🦀, `Go` 🐹, 以及神秘的 `AI/ML` 🤖。
+- 👯 **寻找合伙人**：如果你有有趣的开发项目 (Dev Side)，请务必叫上我！
+- 💬 **我们可以聊聊**：Frontend 魔法, React 生态, 还有 Android 开发。
+- ⚡ **Fun Fact**：充满激情 🔱，热爱冒险 🌐，还是个数字艺术爱好者 🚀。
+
+---
+
+### 🍔 我的秘密配方 (Tech Stack)
+
+<div align="center">
+
+| **Core & Languages** | **Frontend & Mobile** | **Backend & Database** | **Tools & Cloud** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 捉水母战绩 (GitHub Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opxqo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opxqo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opxqo&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 一起去抓水母吗？(Connect with me)
+
+<p align="center">
+  <a href="https://blog.opxqo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-blog.opxqo.com-ff69b4?style=for-the-badge&logo=ghost&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:2547364328luo@wic.edu.kg">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/opxqo">
+    <img src="https://img.shields.io/badge/LinkedIn-opxqo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<img src="https://media.giphy.com/media/l1Aswx03WbLDf9kYw/giphy.gif" width="100">
+
+<p>Made with ❤️ and Krabby Patties 🍔</p>
+
+</div>
