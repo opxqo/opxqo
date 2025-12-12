@@ -5,17 +5,28 @@
   <br/>
   <br/>
 
-  # 👋 Ahoy! 我是 OPXQO
+  <table style="border: none; background: none;" cellspacing="0" cellpadding="0">
+    <tr style="border: none; background: none;">
+      <td style="border: none; background: none; vertical-align: middle; padding-right: 20px;">
+        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="130" alt="派大星左" />
+      </td>
 
-  <h3>"这里是蟹堡王吗？🦀 <br>不，这里是 <span style="color: #FF69B4;">OPXQO</span> 的代码小窝！⭐"</h3>
+      <td style="border: none; background: none; vertical-align: middle; text-align: center;">
+          <h1>👋 Ahoy! 我是 OPXQO</h1>
+          <h3>"这里是蟹堡王吗？🦀 <br>不，这里是 <span style="color: #FF69B4;">OPXQO</span> 的代码小窝！⭐"</h3>
+          <p>
+            <b>Backend Dev 🛠️ | Digital Art 🎨 | Explorer 🚀</b>
+          </p>
+          <a href="https://github.com/opxqo">
+            <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors">
+          </a>
+      </td>
 
-  <p>
-    <b>Backend Dev 🛠️ | Digital Art 🎨 | Explorer 🚀</b>
-  </p>
-
-  <a href="https://github.com/opxqo">
-    <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors">
-  </a>
+      <td style="border: none; background: none; vertical-align: middle; padding-left: 20px;">
+        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="130" style="transform: scaleX(-1);" alt="派大星右" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
