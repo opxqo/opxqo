@@ -7,14 +7,26 @@
 
   <br/><br/>
 
-  <table>
-    <td align="center" width="460">
+<table>
+<tr>
+<td align="center" width="160">
+  <img
+    src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true"
+    width="110"
+    alt="A GIF"
+  />
+</td>
+
+<td align="center" width="460">
   <h1>👋 Ahoy! 我是 OPXQO</h1>
+
   <p>
     “这里是蟹堡王吗？🦀<br/>
     不，这里是 <b><span style="color:#ff69b4;">OPXQO</span></b> 的代码小窝！⭐”
   </p>
+
   <p><b>Backend Dev 🛠️ · Digital Art 🎨 · Explorer 🚀</b></p>
+
   <p>
     <a href="https://github.com/opxqo">
       <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors" />
@@ -36,7 +48,7 @@
   />
 </td>
 </tr>
-  </table>
+</table>
 
   <br/>
 
@@ -132,7 +144,7 @@
 </p>
 
 <img
-  src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUl2k8fZ1FK3eQv63MwmitWlkm5CAaAALkAAOWn4wOxwgM9TN-1vc2BA.gif?raw=true"
+  src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true"
   width="120"
   alt="SpongeBob Footer GIF"
 />
@@ -140,4 +152,3 @@
 <p>Made with ❤️ and Krabby Patties 🍔</p>
 
 </div>
-
