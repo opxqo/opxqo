@@ -11,9 +11,9 @@
     <tr>
       <td align="center" width="160">
         <img
-          src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true"
+          src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true"
           width="110"
-          alt="SpongeBob GIF Left"
+          alt="A GIF"
         />
       </td>
 
@@ -42,10 +42,9 @@
 
       <td align="center" width="160">
         <img
-          src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true"
+          src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true"
           width="110"
-          alt="SpongeBob GIF Right"
-          style="transform: scaleX(-1);"
+          alt="B GIF"
         />
       </td>
     </tr>
