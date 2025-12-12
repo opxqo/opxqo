@@ -42,7 +42,7 @@
 
 <td align="center" width="160">
   <img
-    src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true"
+    src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true"
     width="110"
     alt="B GIF"
   />
@@ -152,3 +152,4 @@
 <p>Made with ❤️ and Krabby Patties 🍔</p>
 
 </div>
+
