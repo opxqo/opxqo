@@ -1,29 +1,35 @@
 <div align="center">
 
-  <img src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true" width="100%" style="border-radius: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
+  <img src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true" width="600" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
   <br/>
   <br/>
 
-  <table style="border: none; background: none;" cellspacing="0" cellpadding="0">
+  <table style="border: none; background: none; margin: 0 auto;">
     <tr style="border: none; background: none;">
-      <td style="border: none; background: none; vertical-align: middle; padding-right: 20px;">
-        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="130" alt="派大星左" />
+      <td width="150" align="center" style="border: none; vertical-align: middle;">
+        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="100" />
       </td>
 
-      <td style="border: none; background: none; vertical-align: middle; text-align: center;">
-          <h1>👋 Ahoy! 我是 OPXQO</h1>
-          <h3>"这里是蟹堡王吗？🦀 <br>不，这里是 <span style="color: #FF69B4;">OPXQO</span> 的代码小窝！⭐"</h3>
+      <td width="400" align="center" style="border: none; vertical-align: middle;">
+          <h1 style="margin-bottom: 0;">👋 Ahoy! 我是 OPXQO</h1>
+          <br>
+          <p>
+            "这里是蟹堡王吗？🦀 <br>
+            不，这里是 <span style="color: #FF69B4; font-weight: bold;">OPXQO</span> 的代码小窝！⭐"
+          </p>
+          
           <p>
             <b>Backend Dev 🛠️ | Digital Art 🎨 | Explorer 🚀</b>
           </p>
+
           <a href="https://github.com/opxqo">
             <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors">
           </a>
       </td>
 
-      <td style="border: none; background: none; vertical-align: middle; padding-left: 20px;">
-        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="130" style="transform: scaleX(-1);" alt="派大星右" />
+      <td width="150" align="center" style="border: none; vertical-align: middle;">
+        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="100" style="transform: scaleX(-1);" />
       </td>
     </tr>
   </table>
@@ -87,7 +93,7 @@
   </a>
 </p>
 
-<img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUl2k8fZ1FK3eQv63MwmitWlkm5CAaAALkAAOWn4wOxwgM9TN-1vc2BA.gif?raw=true" width="120" style="padding-top: 10px;">
+<img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUl2k8fZ1FK3eQv63MwmitWlkm5CAaAALkAAOWn4wOxwgM9TN-1vc2BA.gif?raw=true" width="100" style="padding-top: 10px;">
 
 <p>Made with ❤️ and Krabby Patties 🍔</p>
 
