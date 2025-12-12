@@ -76,7 +76,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/l1Aswx03WbLDf9kYw/giphy.gif" width="100">
+<img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUl2k8fZ1FK3eQv63MwmitWlkm5CAaAALkAAOWn4wOxwgM9TN-1vc2BA.gif?raw=true" width="120" style="padding-top: 10px;">
 
 <p>Made with ❤️ and Krabby Patties 🍔</p>
 
