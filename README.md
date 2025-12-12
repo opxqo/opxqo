@@ -1,78 +1,137 @@
 <div align="center">
+  <img
+    src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true"
+    width="720"
+    alt="海绵宝宝大合照"
+  />
 
-  <img src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true" width="600" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <br/><br/>
 
-  <br/>
-  <br/>
-
-  <table style="border: none; background: none; margin: 0 auto;">
-    <tr style="border: none; background: none;">
-      <td width="150" align="center" style="border: none; vertical-align: middle;">
-        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="100" />
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img
+          src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true"
+          width="110"
+          alt="SpongeBob GIF Left"
+        />
       </td>
 
-      <td width="400" align="center" style="border: none; vertical-align: middle;">
-          <h1 style="margin-bottom: 0;">👋 Ahoy! 我是 OPXQO</h1>
-          <br>
-          <p>
-            "这里是蟹堡王吗？🦀 <br>
-            不，这里是 <span style="color: #FF69B4; font-weight: bold;">OPXQO</span> 的代码小窝！⭐"
-          </p>
-          
-          <p>
-            <b>Backend Dev 🛠️ | Digital Art 🎨 | Explorer 🚀</b>
-          </p>
+      <td align="center" width="460">
+        <h1>👋 Ahoy! 我是 OPXQO</h1>
 
+        <p>
+          “这里是蟹堡王吗？🦀<br/>
+          不，这里是 <b><span style="color:#ff69b4;">OPXQO</span></b> 的代码小窝！⭐”
+        </p>
+
+        <p><b>Backend Dev 🛠️ · Digital Art 🎨 · Explorer 🚀</b></p>
+
+        <p>
           <a href="https://github.com/opxqo">
-            <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors">
+            <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors" />
           </a>
+          <a href="https://github.com/opxqo?tab=followers">
+            <img src="https://img.shields.io/github/followers/opxqo?label=FOLLOWERS&style=flat&color=ff69b4" alt="Followers" />
+          </a>
+          <a href="https://github.com/opxqo?tab=repositories">
+            <img src="https://img.shields.io/badge/Repos-Open%20for%20fun-ff69b4?style=flat" alt="Repos" />
+          </a>
+        </p>
       </td>
 
-      <td width="150" align="center" style="border: none; vertical-align: middle;">
-        <img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true" width="100" style="transform: scaleX(-1);" />
+      <td align="center" width="160">
+        <img
+          src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUjmk8fPnSfhXYmiYjsUJTO__U-_4CAALTAAOWn4wOG0m_uoE_dq42BA.gif?raw=true"
+          width="110"
+          alt="SpongeBob GIF Right"
+          style="transform: scaleX(-1);"
+        />
       </td>
     </tr>
   </table>
 
+  <br/>
+
+  <p>
+    <a href="https://blog.opxqo.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-blog.opxqo.com-ff69b4?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" />
+    </a>
+    <a href="mailto:2547364328luo@wic.edu.kg">
+      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/opxqo">
+      <img src="https://img.shields.io/badge/LinkedIn-opxqo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🫧 关于我也许你想知道的事 (About Me)
+## 🫧 关于我 (About Me)
 
-> *"我准备好了！我准备好了！" —— 海绵宝宝*
+> *“我准备好了！我准备好了！” —— 海绵宝宝*
 
-这里的代码充满热情！作为一个充满好奇心的开发者，我目前专注于后端开发，但也喜欢在前端和移动端的世界里探险。
+我是一名充满好奇心的开发者，主要专注 **后端开发**，但也喜欢在 **前端 / 移动端** 的世界里探险。  
+目标是写出 **更稳定、更优雅、更能跑的系统**，顺便把世界画得更可爱一点 🎨
 
-- 🔭 **目前正在折腾**：后端开发 (Backend Dev)，构建坚如磐石的服务。
-- 🌱 **正在努力吸收新知识**：`Rust` 🦀, `Go` 🐹, 以及神秘的 `AI/ML` 🤖。
-- 👯 **寻找合伙人**：如果你有有趣的开发项目 (Dev Side)，请务必叫上我！
-- 💬 **我们可以聊聊**：Frontend 魔法, React 生态, 还有 Android 开发。
-- ⚡ **Fun Fact**：充满激情 🔱，热爱冒险 🌐，还是个数字艺术爱好者 🚀。
+- 🔭 **最近在折腾**：后端服务 / 架构与性能优化  
+- 🌱 **正在学习**：`Rust` 🦀 · `Go` 🐹 · `AI/ML` 🤖  
+- 👯 **想一起搞事**：有趣的 Side Project / 开源协作 / 小工具都欢迎  
+- 💬 **可以聊**：React 生态、前端工程化、Android、后端设计与踩坑  
+- ⚡ **Fun Fact**：热爱冒险 🌐 + 数字艺术 🚀（我会把热情写进代码里）
 
 ---
 
-### 🍔 我的秘密配方 (Tech Stack)
+## 🍔 我的秘密配方 (Tech Stack)
 
 <div align="center">
 
-| **Core & Languages** | **Frontend & Mobile** | **Backend & Database** | **Tools & Cloud** |
-|:---:|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+### Core & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 捉水母战绩 (GitHub Stats)
+## 📊 捉水母战绩 (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opxqo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opxqo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=opxqo&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=opxqo&layout=compact&theme=radical&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opxqo&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=opxqo&theme=radical&hide_border=true"
+    alt="Streak Stats"
+  />
 </div>
 
 ---
@@ -81,19 +140,15 @@
 
 ### 🤝 一起去抓水母吗？(Connect with me)
 
-<p align="center">
-  <a href="https://blog.opxqo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-blog.opxqo.com-ff69b4?style=for-the-badge&logo=ghost&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:2547364328luo@wic.edu.kg">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/opxqo">
-    <img src="https://img.shields.io/badge/LinkedIn-opxqo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p>
+  你可以从这里找到我：写博客、写代码、以及偶尔发呆 🤿
 </p>
 
-<img src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUl2k8fZ1FK3eQv63MwmitWlkm5CAaAALkAAOWn4wOxwgM9TN-1vc2BA.gif?raw=true" width="100" style="padding-top: 10px;">
+<img
+  src="https://github.com/opxqo/opxqo/blob/main/public/images/CAACAgIAAxkBAWCUl2k8fZ1FK3eQv63MwmitWlkm5CAaAALkAAOWn4wOxwgM9TN-1vc2BA.gif?raw=true"
+  width="120"
+  alt="SpongeBob Footer GIF"
+/>
 
 <p>Made with ❤️ and Krabby Patties 🍔</p>
 
