@@ -8,46 +8,34 @@
   <br/><br/>
 
   <table>
-    <tr>
-      <td align="center" width="160">
-        <img
-          src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true"
-          width="110"
-          alt="A GIF"
-        />
-      </td>
+    <td align="center" width="460">
+  <h1>👋 Ahoy! 我是 OPXQO</h1>
+  <p>
+    “这里是蟹堡王吗？🦀<br/>
+    不，这里是 <b><span style="color:#ff69b4;">OPXQO</span></b> 的代码小窝！⭐”
+  </p>
+  <p><b>Backend Dev 🛠️ · Digital Art 🎨 · Explorer 🚀</b></p>
+  <p>
+    <a href="https://github.com/opxqo">
+      <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors" />
+    </a>
+    <a href="https://github.com/opxqo?tab=followers">
+      <img src="https://img.shields.io/github/followers/opxqo?label=FOLLOWERS&style=flat&color=ff69b4" alt="Followers" />
+    </a>
+    <a href="https://github.com/opxqo?tab=repositories">
+      <img src="https://img.shields.io/badge/Repos-Open%20for%20fun-ff69b4?style=flat" alt="Repos" />
+    </a>
+  </p>
+</td>
 
-      <td align="center" width="460">
-        <h1>👋 Ahoy! 我是 OPXQO</h1>
-
-        <p>
-          “这里是蟹堡王吗？🦀<br/>
-          不，这里是 <b><span style="color:#ff69b4;">OPXQO</span></b> 的代码小窝！⭐”
-        </p>
-
-        <p><b>Backend Dev 🛠️ · Digital Art 🎨 · Explorer 🚀</b></p>
-
-        <p>
-          <a href="https://github.com/opxqo">
-            <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors" />
-          </a>
-          <a href="https://github.com/opxqo?tab=followers">
-            <img src="https://img.shields.io/github/followers/opxqo?label=FOLLOWERS&style=flat&color=ff69b4" alt="Followers" />
-          </a>
-          <a href="https://github.com/opxqo?tab=repositories">
-            <img src="https://img.shields.io/badge/Repos-Open%20for%20fun-ff69b4?style=flat" alt="Repos" />
-          </a>
-        </p>
-      </td>
-
-      <td align="center" width="160">
-        <img
-          src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true"
-          width="110"
-          alt="B GIF"
-        />
-      </td>
-    </tr>
+<td align="center" width="160">
+  <img
+    src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true"
+    width="110"
+    alt="B GIF"
+  />
+</td>
+</tr>
   </table>
 
   <br/>
@@ -152,3 +140,4 @@
 <p>Made with ❤️ and Krabby Patties 🍔</p>
 
 </div>
+
