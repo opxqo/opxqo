@@ -121,10 +121,7 @@
 </div>
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=opxqo&theme=radical&hide_border=true"
-    alt="Streak Stats"
-  />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=opxqo&theme=oceanic-next&hide_border=&locale=zh_Hans&short_numbers=" alt="GitHub Streak" /></a>
 </div>
 
 ---
