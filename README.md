@@ -1,10 +1,4 @@
 <div align="center">
-  <img
-    src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true"
-    width="720"
-    alt="海绵宝宝大合照"
-  />
-
   <br/><br/>
 
 <table>
@@ -150,6 +144,12 @@
 />
 
 <p>Made with ❤️ and Krabby Patties 🍔</p>
+
+  <img
+    src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true"
+    width="720"
+    alt="海绵宝宝大合照"
+  />
 
 </div>
 
