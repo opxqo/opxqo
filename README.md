@@ -108,16 +108,6 @@
 ## 📊 捉水母战绩 (GitHub Stats)
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=opxqo&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=opxqo&layout=compact&theme=radical&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
 </div>
 
 <div align="center">
