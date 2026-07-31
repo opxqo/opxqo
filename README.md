@@ -103,6 +103,7 @@
 - [anime.js 使用体验：为什么我又开始认真看前端动画库](https://blog.opxqo.com/2026/animejs-experience)
 - [QClaw 使用体验：把微信变成远程工作的入口，好不好用？](https://blog.opxqo.com/2026/qclaw-experience)
 - [从零开始整理我的数字空间：GitHub、域名、图床、邮箱与博客](https://blog.opxqo.com/2026/digital-space)
+- [组件样式示例](https://blog.opxqo.com/example)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.opxqo.com">阅读更多 →</a></p>
