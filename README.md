@@ -1,142 +1,138 @@
 <div align="center">
-  <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="160">
-  <img
-    src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true"
-    width="110"
-    alt="A GIF"
-  />
-</td>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22B8CF,100:FF6B9A&height=190&section=header&text=OPXQO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Builder%20%C2%B7%20Backend%20Engineer&descAlignY=55&descSize=18" alt="OPXQO profile banner" />
 
-<td align="center" width="460">
-  <h1>👋 Ahoy! 我是 OPXQO</h1>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22B8CF&center=true&vCenter=true&width=680&lines=AI+Application+Builder;Backend+Engineer;Open-source+Explorer;Always+curious%2C+always+building" alt="Typing introduction" />
+
+  <p>把想法做成稳定、可维护、真正能运行的产品。</p>
 
   <p>
-    “这里是蟹堡王吗？🦀<br/>
-    不，这里是 <b><span style="color:#ff69b4;">OPXQO</span></b> 的代码小窝！⭐”
-  </p>
-
-  <p><b>Backend Dev 🛠️ · Digital Art 🎨 · Explorer 🚀</b></p>
-
-  <p>
-    <a href="https://github.com/opxqo">
-      <img src="https://komarev.com/ghpvc/?username=opxqo&label=VISITORS&style=flat&color=ff69b4" alt="Visitors" />
-    </a>
-    <a href="https://github.com/opxqo?tab=followers">
-      <img src="https://img.shields.io/github/followers/opxqo?label=FOLLOWERS&style=flat&color=ff69b4" alt="Followers" />
-    </a>
-    <a href="https://github.com/opxqo?tab=repositories">
-      <img src="https://img.shields.io/badge/Repos-Open%20for%20fun-ff69b4?style=flat" alt="Repos" />
-    </a>
-  </p>
-</td>
-
-<td align="center" width="160">
-  <img
-    src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true"
-    width="110"
-    alt="B GIF"
-  />
-</td>
-</tr>
-</table>
-
-  <br/>
-
-  <p>
-    <a href="https://blog.opxqo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-blog.opxqo.com-ff69b4?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" />
+    <a href="https://blog.opxqo.com">
+      <img src="https://img.shields.io/badge/Blog-blog.opxqo.com-22B8CF?style=for-the-badge&logo=ghost&logoColor=white" alt="OPXQO Blog" />
     </a>
     <a href="mailto:2547364328luo@wic.edu.kg">
-      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Say_Hello-FF6B9A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email OPXQO" />
     </a>
-    <a href="https://linkedin.com/in/opxqo">
-      <img src="https://img.shields.io/badge/LinkedIn-opxqo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://github.com/opxqo?tab=repositories">
+      <img src="https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore OPXQO projects" />
     </a>
   </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=opxqo&label=PROFILE+VIEWS&style=flat-square&color=22B8CF" alt="Profile views" />
+    <a href="https://github.com/opxqo?tab=followers">
+      <img src="https://img.shields.io/github/followers/opxqo?label=FOLLOWERS&style=flat-square&color=FF6B9A" alt="GitHub followers" />
+    </a>
+  </p>
+
 </div>
 
----
+## 关于我
 
-## 🫧 关于我 (About Me)
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <p>你好，我是 <strong>OPXQO</strong>，一名偏后端的 AI 开发者。我喜欢从真实问题出发，把服务端、前端、数据和基础设施串成完整产品。</p>
+      <ul>
+        <li>当前重点：AI 应用、可靠后端、自动化工具与信息流产品</li>
+        <li>持续学习：Rust、Go，以及 LLM 应用工程</li>
+        <li>工程偏好：清晰边界、可观测性、可恢复任务与务实交付</li>
+        <li>开源兴趣：RSS、Agent、开发者工具和有趣的小型产品</li>
+      </ul>
+      <p><em>保持好奇，持续构建。Ready for the next adventure.</em></p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://github.com/opxqo/opxqo/blob/main/public/images/A.gif?raw=true" width="165" alt="Patrick Star dancing" />
+    </td>
+  </tr>
+</table>
 
-> *“我准备好了！我准备好了！” —— 海绵宝宝*
-
-我是一名充满好奇心的AI开发者，主要专注 **后端开发**，但也喜欢在 **前端 / 移动端** 的世界里探险。  
-目标是写出 **更稳定、更优雅、更能跑的系统**，顺便把世界画得更可爱一点 🎨
-
-- 🔭 **最近在折腾**：后端服务 / 架构与性能优化  
-- 🌱 **正在学习**：`Rust` 🦀 · `Go` 🐹 · `AI/LLM` 🤖  
-- 👯 **想一起搞事**：Hermes / OpenClaw / 开源协作 / 小工具都欢迎  
-- 💬 **可以聊**：React 生态、前端工程化、Android、后端设计与踩坑  
-- ⚡ **Fun Fact**：热爱冒险 🌐 + 数字艺术 🚀（我会把热情写进代码里）
-
----
-
-## 🍔 我的秘密配方 (Tech Stack)
+## 技术栈
 
 <div align="center">
-
-### Core & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Backend & Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,ts,kotlin,go,rust,spring,fastapi,vue,react,astro,tailwind,mysql,sqlite,redis,docker,cloudflare,git,githubactions&perline=10" alt="OPXQO technology stack" />
+  </a>
+  <br />
+  <sub>Backend · AI · Web · Mobile · Data · Infrastructure</sub>
 </div>
 
----
+## 精选项目
 
-## 📊 捉水母战绩 (GitHub Stats)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/opxqo/xrelay">XRelay（讯递）</a></h3>
+      <p>把公开 X 账号转换为持久化、可验证的 RSS，支持正文补全、中文翻译、邮件投递与可靠任务队列。</p>
+      <p><code>Python</code> <code>SQLite</code> <code>RSS</code> <code>LLM</code></p>
+      <a href="https://github.com/opxqo/xrelay"><img src="https://img.shields.io/github/stars/opxqo/xrelay?style=flat-square&color=22B8CF" alt="XRelay stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/opxqo/xrelay?style=flat-square&color=FF6B9A" alt="XRelay last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/opxqo/wicmail">WicMail</a></h3>
+      <p>面向校园场景的邮箱申请与管理平台，覆盖学生端、管理端、邮件接收和完整的前后端链路。</p>
+      <p><code>Vue</code> <code>Python</code> <code>MySQL</code> <code>Cloudflare</code></p>
+      <a href="https://github.com/opxqo/wicmail"><img src="https://img.shields.io/github/stars/opxqo/wicmail?style=flat-square&color=22B8CF" alt="WicMail stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/opxqo/wicmail?style=flat-square&color=FF6B9A" alt="WicMail last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/opxqo/musigate">musigate</a></h3>
+      <p>YAML 驱动的 Telegram Bot 交互引擎，让人或 AI Agent 无需编写 Python 代码即可适配新的 Bot 工作流。</p>
+      <p><code>Python</code> <code>YAML</code> <code>Telegram</code> <code>CLI</code></p>
+      <a href="https://github.com/opxqo/musigate"><img src="https://img.shields.io/github/stars/opxqo/musigate?style=flat-square&color=22B8CF" alt="musigate stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/opxqo/musigate?style=flat-square&color=FF6B9A" alt="musigate last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/opxqo/xiaoheihe-cli">xiaoheihe-cli</a></h3>
+      <p>小黑盒内容工具，提供 CLI、常驻守护进程、Python SDK 与 REST API 四种使用方式。</p>
+      <p><code>Python</code> <code>Playwright</code> <code>FastAPI</code> <code>Docker</code></p>
+      <a href="https://github.com/opxqo/xiaoheihe-cli"><img src="https://img.shields.io/github/stars/opxqo/xiaoheihe-cli?style=flat-square&color=22B8CF" alt="xiaoheihe-cli stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/opxqo/xiaoheihe-cli?style=flat-square&color=FF6B9A" alt="xiaoheihe-cli last commit" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/opxqo?tab=repositories"><strong>查看全部项目 →</strong></a></p>
+
+## 最新文章
+
+<!-- BLOG-POST-LIST:START -->
+- [Hermes 日志 001：把开发节奏真正跑起来](https://blog.opxqo.com/2026/hermes-log-001)
+- [anime.js 使用体验：为什么我又开始认真看前端动画库](https://blog.opxqo.com/2026/animejs-experience)
+- [QClaw 使用体验：把微信变成远程工作的入口，好不好用？](https://blog.opxqo.com/2026/qclaw-experience)
+- [从零开始整理我的数字空间：GitHub、域名、图床、邮箱与博客](https://blog.opxqo.com/2026/digital-space)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><a href="https://blog.opxqo.com">阅读更多 →</a></p>
+
+## GitHub 数据
 
 <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opxqo&theme=transparent" alt="OPXQO contribution summary" />
+  <br />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=opxqo&theme=transparent" alt="OPXQO languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=opxqo&theme=transparent" alt="OPXQO GitHub statistics" />
+  <br />
+  <img width="58%" src="https://streak-stats.demolab.com?user=opxqo&theme=transparent&hide_border=true&locale=zh_Hans" alt="OPXQO contribution streak" />
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=opxqo&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="OPXQO contribution activity graph" />
+</div>
+
+## 贡献轨迹
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opxqo/opxqo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opxqo/opxqo/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/opxqo/opxqo/output/github-contribution-grid-snake.svg" alt="Snake animation generated from OPXQO contributions" />
+  </picture>
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=opxqo&theme=oceanic-next&hide_border=&locale=zh_Hans&short_numbers=" alt="GitHub Streak" /></a>
+  <img src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true" width="105" alt="Patrick Star waving" />
+  <p><strong>欢迎聊代码、AI、产品，也欢迎一起做点有趣的东西。</strong></p>
+  <p><sub>Built with curiosity, care, and a little Bikini Bottom energy.</sub></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22B8CF,100:FF6B9A&height=100&section=footer" alt="Profile footer" />
 </div>
-
----
-
-<div align="center">
-
-### 🤝 一起去抓水母吗？(Connect with me)
-
-<p>
-  你可以从这里找到我：写博客、写代码、以及偶尔发呆 🤿
-</p>
-
-<img
-  src="https://github.com/opxqo/opxqo/blob/main/public/images/B.gif?raw=true"
-  width="120"
-  alt="SpongeBob Footer GIF"
-/>
-
-<p>Made with ❤️ and Krabby Patties 🍔</p>
-
-  <img
-    src="https://github.com/opxqo/opxqo/blob/main/public/images/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%90%88%E7%85%A7.jpg?raw=true"
-    width="720"
-    alt="海绵宝宝大合照"
-  />
-
-</div>
-
