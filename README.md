@@ -57,6 +57,24 @@
   <sub>Backend · AI · Web · Mobile · Data · Infrastructure</sub>
 </div>
 
+## Vibe Coding
+
+<div align="center">
+  <a href="https://vibecafe.ai/@opxqo">
+    <img src="https://vibecafe.ai/@opxqo/badge" alt="VibeUsage overview" />
+  </a>
+  <br /><br />
+  <a href="https://vibecafe.ai/@opxqo">
+    <img src="https://vibecafe.ai/@opxqo/badge/hours" alt="VibeUsage coding hours" />
+  </a>
+  <a href="https://vibecafe.ai/@opxqo">
+    <img src="https://vibecafe.ai/@opxqo/badge/cost" alt="VibeUsage estimated cost" />
+  </a>
+  <a href="https://vibecafe.ai/@opxqo">
+    <img src="https://vibecafe.ai/@opxqo/badge/token" alt="VibeUsage token usage" />
+  </a>
+</div>
+
 ## 精选项目
 
 <table>
